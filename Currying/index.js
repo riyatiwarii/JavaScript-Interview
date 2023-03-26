@@ -1,4 +1,4 @@
-// Write a program that can produce the same result 5 by below two ways.
+// Write a program that can produce the same result 5 by below two ways..
 // console.log(sum(2, 3)); 
 // console.log(sum(2)(3));
 
